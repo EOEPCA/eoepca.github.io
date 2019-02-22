@@ -1,17 +1,24 @@
-= EO Exploitation Platform Common Architecture (EOEPCA)
-:author: Richard Conway
-:email: <richard.conway@telespazio.com>
-:revnumber: v0.2
-:revdate: 15/02/2019
-:revremark: Early draft
+= EO Exploitation Platform Common Architecture
+:author: Telespazio VEGA UK Team
+:email: <eoepca@telespazio.com>
+//:revnumber: v0.2
+//:revdate: 15/02/2019
+//:revremark: Early draft
 // attributes
 :hardbreaks:
-:sectnums:
+//:sectnums:
 :toc: macro
 :toclevels: 4
+:linkcss:
+:stylesheet: stylesheets/telespazio.css
+
+== Contents
+
+toc::[]
 
 == Overview
 
+EO Exploitation Platform Common Architecture (EOEPCA).
 TBD
 
 == Documents
