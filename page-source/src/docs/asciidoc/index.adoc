@@ -12,22 +12,20 @@
 :linkcss:
 :stylesheet: stylesheets/telespazio.css
 
-== Contents
+:leveloffset: +1
 
-toc::[]
+include::preface.adoc[]
 
-== Overview
+<<<<
 
-EO Exploitation Platform Common Architecture (EOEPCA).
-TBD
+include::overview.adoc[]
 
-== Documents
+<<<<
 
-Use Case Document::
-TBD - here
+include::github.adoc[]
 
-Master Architectural Design Document::
-TBD - here
+<<<<
 
-Master Interface Control Document::
-TBD - here
+include::documents.adoc[]
+
+:leveloffset: -1
