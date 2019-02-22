@@ -1,0 +1,26 @@
+= EO Exploitation Platform Common Architecture (EOEPCA)
+:author: Richard Conway
+:email: <richard.conway@telespazio.com>
+:revnumber: v0.2
+:revdate: 15/02/2019
+:revremark: Early draft
+// attributes
+:hardbreaks:
+:sectnums:
+:toc: macro
+:toclevels: 4
+
+== Overview
+
+TBD
+
+== Documents
+
+Use Case Document::
+TBD - here
+
+Master Architectural Design Document::
+TBD - here
+
+Master Interface Control Document::
+TBD - here
