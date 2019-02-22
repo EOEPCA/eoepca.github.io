@@ -1,4 +1,5 @@
+= EO Exploitation Platform Common Architecture (EOEPCA) - Public Project Page
 
-= eoepca.github.io
+The published page can be found https://eoepca.github.io/[here].
 
-EOEPCA public project page
+The document source is under sub-directory link:page-source[`page-source`].
