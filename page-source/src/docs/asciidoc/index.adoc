@@ -1,6 +1,6 @@
 = EO Exploitation Platform Common Architecture
-:author: Telespazio VEGA UK Team
-:email: <eoepca@telespazio.com>
+:author: TVUK System Team
+:email: <Eoepca.SystemTeam@telespazio.com>
 //:revnumber: v0.2
 //:revdate: 15/02/2019
 //:revremark: Early draft
