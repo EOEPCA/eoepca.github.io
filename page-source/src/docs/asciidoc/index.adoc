@@ -10,7 +10,7 @@
 :toc: macro
 :toclevels: 4
 :linkcss:
-:stylesheet: stylesheets/telespazio.css
+:stylesheet: stylesheets/eoepca.css
 
 :leveloffset: +1
 
