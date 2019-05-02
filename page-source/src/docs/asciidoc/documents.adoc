@@ -5,7 +5,7 @@ Use Case Document::
 https://eoepca.github.io/use-case-analysis/
 
 Master Architectural Design Document::
-TBD - here
+https://eoepca.github.io/master-system-design/
 
 Master Interface Control Document::
 TBD - here
