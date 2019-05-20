@@ -2,10 +2,10 @@
 = Documents
 
 Use Case Document::
-https://eoepca.github.io/use-case-analysis/
+https://eoepca.github.io/use-case-analysis/[https://eoepca.github.io/use-case-analysis/^]
 
 Master System Design Document (MSDD)::
-https://eoepca.github.io/master-system-design/
+https://eoepca.github.io/master-system-design/[https://eoepca.github.io/master-system-design/^]
 
 Master Interface Control Document (MICD)::
 TBD - here
