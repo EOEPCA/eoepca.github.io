@@ -29,6 +29,7 @@ asciidoctor {
         from(sourceDir) {
             include 'images/**'
             include 'stylesheets/**'
+            include 'resources/**'
         }
     }
 }

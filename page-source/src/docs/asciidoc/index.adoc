@@ -28,4 +28,8 @@ include::github.adoc[]
 
 include::documents.adoc[]
 
+<<<<
+
+include::resources.adoc[]
+
 :leveloffset: -1
