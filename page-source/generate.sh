@@ -22,10 +22,12 @@ cp -r src/docs/asciidoc/resources "${OUTPUT_DIR}"
 
 # Generate HTML
 echo -n "Generating HTML output: "
-docker run --rm -it -v $(pwd):/documents/ asciidoctor/docker-asciidoctor asciidoctor -D "${OUTPUT_DIR}" src/docs/asciidoc/index.adoc
-docker run --rm -it -v $(pwd):/documents/ asciidoctor/docker-asciidoctor asciidoctor -D "${OUTPUT_DIR}/resources/ITT/domain-experts" src/docs/asciidoc/resources/ITT/domain-experts/index.adoc
-docker run --rm -it -v $(pwd):/documents/ asciidoctor/docker-asciidoctor asciidoctor -D "${OUTPUT_DIR}/resources/ITT/domain-experts/applicable-docs" src/docs/asciidoc/resources/ITT/domain-experts/applicable-docs/index.adoc
-docker run --rm -it -v $(pwd):/documents/ asciidoctor/docker-asciidoctor asciidoctor -D "${OUTPUT_DIR}/resources/ITT/domain-experts/reference-docs" src/docs/asciidoc/resources/ITT/domain-experts/reference-docs/index.adoc
+for indexfile in $(find src -name index.adoc)
+do
+  relpath="$(realpath --relative-to=./src/docs/asciidoc "${indexfile}")"
+  reldir="$(dirname "${relpath}")"
+  docker run --rm -it -v $(pwd):/documents/ asciidoctor/docker-asciidoctor asciidoctor -D "${OUTPUT_DIR}/${reldir}" "src/docs/asciidoc/${relpath}"
+done
 echo "[done]"
 
 cd "${ORIG_DIR}"
