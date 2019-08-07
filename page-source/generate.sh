@@ -17,7 +17,7 @@ echo "Copy images/ to output directory"
 cp -r src/docs/asciidoc/images "${OUTPUT_DIR}"
 echo "Copy stylesheets/ to output directory"
 cp -r src/docs/asciidoc/stylesheets "${OUTPUT_DIR}"
-echo "Copy resources/d to output directory"
+echo "Copy resources/ to output directory"
 cp -r src/docs/asciidoc/resources "${OUTPUT_DIR}"
 
 # Generate HTML
