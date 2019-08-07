@@ -13,3 +13,9 @@ link:..[Domain Experts ITT] - link:../applicable-docs[Applicable Documents] - *R
 *[RD-2]* link:18-062_OGC-WPS2.0-REST-JSON-Binding-Extension.pdf[OGC 18-062, OGC WPS 2.0 REST/JSON Binding Extension, 1.0-draft^]
 
 *[RD-3]* link:CEOS-OPENSEARCH-BP-V1.2.pdf[CEOS OpenSearch Best Practise, v1.2^]
+
+== Proposal Forms
+
+* *[SCOT Annex 2]* link:Admissibility-Form.docx[Admissibility Form^]
+
+* *[SCOT Annex 3]* link:Geographical-Distribution-Form.docx[Geographic Distribution Form^]
