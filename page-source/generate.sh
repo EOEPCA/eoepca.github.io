@@ -19,6 +19,7 @@ echo "Copy stylesheets/ to output directory"
 cp -r src/docs/asciidoc/stylesheets "${OUTPUT_DIR}"
 echo "Copy resources/ to output directory"
 cp -r src/docs/asciidoc/resources "${OUTPUT_DIR}"
+find "${OUTPUT_DIR}" -name '*.adoc' -exec rm {} \;
 
 # Generate HTML
 echo "Generating HTML output: "
