@@ -1,8 +1,0 @@
-= Domain Experts ITT
-
-*Domain Experts ITT* - link:applicable-docs[Applicable Documents] - link:reference-docs[Reference Documents]
-
-== Supporting Documentation
-
-* link:applicable-docs[Applicable Documents]
-* link:reference-docs[Reference Documents]
