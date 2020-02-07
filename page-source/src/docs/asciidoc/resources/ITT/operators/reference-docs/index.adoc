@@ -14,6 +14,8 @@ link:..[Operators ITT] - link:../applicable-docs[Applicable Documents] - *Refere
 
 *[RD-3]* link:CEOS-OPENSEARCH-BP-V1.2.pdf[CEOS OpenSearch Best Practise, v1.2^]
 
+*[RD-4]* link:19-020r1_OGC-TB15-Catalogue-and-Discovery-ER.pdf[OGC 19-020r1, Testbed-15 Catalogue and Discovery ER, 12/12/2019^]
+
 == Proposal Forms
 
 * *[SCOT Annex 2]* link:Admissibility-Form.docx[Admissibility Form^]
