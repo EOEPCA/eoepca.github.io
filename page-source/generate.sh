@@ -21,11 +21,12 @@ echo "Copy resources/ to output directory"
 cp -r src/docs/asciidoc/resources "${OUTPUT_DIR}"
 
 # Generate HTML
-echo -n "Generating HTML output: "
+echo "Generating HTML output: "
 for indexfile in $(find src -name index.adoc)
 do
   relpath="$(realpath --relative-to=./src/docs/asciidoc "${indexfile}")"
   reldir="$(dirname "${relpath}")"
+  echo "  ${relpath}"
   docker run --rm -it -v $(pwd):/documents/ asciidoctor/docker-asciidoctor asciidoctor -D "${OUTPUT_DIR}/${reldir}" "src/docs/asciidoc/${relpath}"
 done
 echo "[done]"
