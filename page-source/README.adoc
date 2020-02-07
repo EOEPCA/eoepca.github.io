@@ -17,13 +17,13 @@ The page (source) is maintained in this repository (`eoepca.github.io`) under th
 Build::
 The document is built by running...
 ```
-$ ./gradlew build
+$ ./generate.sh
 ```
 
 Publish::
 The document is published by running...
 ```
-$ ./gradlew gitPublishPush
+$ ./publish.sh
 ```
 
 Related links::
