@@ -1,0 +1,21 @@
+= Operators ITT
+
+link:..[Operators ITT] - link:../applicable-docs[Applicable Documents] - *Reference Documents*
+
+== Reference Documents
+
+[RD-1] OGC Testbed 13/14 Engineering Report Set for Application Deployment and Execution::
+* link:17-023_OGC-TB13-EP-Application-Package-ER.pdf[OGC 17-023, Testbed-13 EP Application Package Engineering Report, 30/01/2018^]
+* link:17-024_OGC-TB13-Application-Deployment-and-Execution-Service-ER.pdf[OGC 17-024, Testbed-13 Application Deployment and Execution Service ER, 11/01/2018^]
+* link:18-049r1_OGC-TB14-Application-Package-ER.pdf[OGC 18-049r1, Testbed-14 Application Package ER, 02/01/2019^]
+* link:18-050r1_OGC-TB14-ADES-EMS-Results-and-Best-Practices-ER.pdf[OGC 18-050r1, ADES & EMS Results and Best Practices ER, 08/02/2019^]
+
+*[RD-2]* link:18-062_OGC-WPS2.0-REST-JSON-Binding-Extension.pdf[OGC 18-062, OGC WPS 2.0 REST/JSON Binding Extension, 1.0-draft^]
+
+*[RD-3]* link:CEOS-OPENSEARCH-BP-V1.2.pdf[CEOS OpenSearch Best Practise, v1.2^]
+
+== Proposal Forms
+
+* *[SCOT Annex 2]* link:Admissibility-Form.docx[Admissibility Form^]
+
+* *[SCOT Annex 3]* link:Geographical-Distribution-Form.docx[Geographic Distribution Form^]
