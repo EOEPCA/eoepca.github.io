@@ -8,4 +8,5 @@ link:..[Operators ITT] - *Applicable Documents* - link:../reference-docs[Referen
 
 *[AD-2]* link:EOEPCA-SDD-001_1.0_Master-System-Design.pdf[Master System Design Document (MSDD), EOEPCA.SDD.001, Issue 1.0^]
 
-*[AD-3]* link:EOEPCA-PLN-005_1.1_Release-Plan.pdf[EOEPCA Release Plan (RelP), EOEPCA.PLN.006, Issue 1.1^]
+*[AD-3]* link:EOEPCA-PLN-005_1.2_Release-Plan.pdf[EOEPCA Release Plan (RelP), EOEPCA.PLN.005, Issue 1.2^] +
+_Note that Issue 1.2 of this document was released after the preparation of the ITT, and represents the latest version._
