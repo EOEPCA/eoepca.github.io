@@ -8,4 +8,4 @@ Master System Design Document (MSDD)::
 https://eoepca.github.io/master-system-design/[https://eoepca.github.io/master-system-design/^]
 
 Master Interface Control Document (MICD)::
-TBD - here
+https://eoepca.github.io/master-system-icd/[https://eoepca.github.io/master-system-icd/^]
