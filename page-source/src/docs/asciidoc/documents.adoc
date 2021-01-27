@@ -14,22 +14,22 @@
 
 === Login Service
 
-*Design:* link:https://eoepca.github.io/um-login-service/v0.1/[https://eoepca.github.io/um-login-service/v0.1/^]
+*Design:* link:https://eoepca.github.io/um-login-service/v0.1/[https://eoepca.github.io/um-login-service/^]
 
 
 === Policy Enforcement Point (PEP)
 
-*Design:* link:https://eoepca.github.io/um-pep-engine/v0.1/[https://eoepca.github.io/um-pep-engine/v0.1/^]
+*Design:* link:https://eoepca.github.io/um-pep-engine/v0.1/[https://eoepca.github.io/um-pep-engine/^]
 
 
 === Policy Decision Point (PDP)
 
-*Design:* link:https://eoepca.github.io/um-pdp-engine/current/[https://eoepca.github.io/um-pdp-engine/current/^]
+*Design:* link:https://eoepca.github.io/um-pdp-engine/current/[https://eoepca.github.io/um-pdp-engine/^]
 
 
 === User Profile
 
-*Design:* link:https://eoepca.github.io/um-user-profile/v0.1/[https://eoepca.github.io/um-user-profile/v0.1/^]
+*Design:* link:https://eoepca.github.io/um-user-profile/v0.1/[https://eoepca.github.io/um-user-profile/^]
 
 
 == Processing & Chaining
