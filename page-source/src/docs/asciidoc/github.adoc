@@ -1,6 +1,0 @@
-
-= GitHub
-
-Please see our GitHub project at https://github.com/eoepca.
-
-Our public documentation and development work is hosted here for review and feedback.

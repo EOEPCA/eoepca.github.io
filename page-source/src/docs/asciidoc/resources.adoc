@@ -1,8 +1,0 @@
-
-= Resources
-
-ESA Phi-week 2020::
-*_A Common Architecture Supporting Interoperability_* - link:https://www.youtube.com/watch?v=8wvXQ4HkeUw[YouTube video^]
-
-Living Planet Symposium 2019::
-*_Introduction to EOEPCA_* - link:resources/LPS19-EOEPCA-Workshop.pdf[PowerPoint Presentation (PDF)^]
